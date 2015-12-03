@@ -19,7 +19,7 @@
 <key>metadata</key>
 <dict>
 <key>bundle-identifier</key>
-<string>com.szusoft.cardrecognition</string>
+<string>edu.siso.CardRecognition</string>
 <key>bundle-version</key>
 <string>1.0.0</string>
 <key>kind</key>
